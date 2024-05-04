@@ -1,4 +1,5 @@
 # Café Dutra's coffe
+![Captura de tela 2024-05-04 014403](https://github.com/AlissonDutra04/ProjetoCafeteria/assets/163861118/562106ef-36d7-4949-b1a3-e05892d94d2d)
 
 Bem-vindo à página de café Delícia! Aqui você encontrará tudo o que precisa saber sobre nossa paixão pelo café e os produtos que oferecemos.
 
